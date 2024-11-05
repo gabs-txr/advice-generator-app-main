@@ -2,10 +2,10 @@
 Esta é uma solução para o desafio do aplicativo gerador de conselhos no Frontend Mentor.
 
 ## Índice
-- [Visão Geral] (#Visão Geral)
-  - O Desafio (#O Desafio)
-  - Captura de Tela (#Captura de Tela)
-  - Construsão (#Construsão)
+- [Visão Geral](#Visão-Geral)
+  - [O Desafio](#O-Desafio)
+  - [Captura de Tela](#Captura-de-Tela)
+  - [Construsão](#Construsão)
 
 ## Visão Geral
 
