@@ -3,10 +3,10 @@ Esta é uma solução para o desafio do aplicativo gerador de conselhos no Front
 
 ## Índice
 - [Visão Geral] (#Visão Geral)
-  - O Desafio (#Visão Geral)
-  - Captura de Tela (#Visão Geral)
-- Meu Processo (#Visão Geral)
-Construído Com (#Visão Geral)
+  - O Desafio (#O Desafio)
+  - Captura de Tela (#Captura de Tela)
+  - Construsão (#Construsão)
+
 ## Visão Geral
 
 ### O Desafio
